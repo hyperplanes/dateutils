@@ -1,4 +1,4 @@
-﻿import { FormatTimespan } from "../shared/FormatTimespan";
+﻿import { FormatTimespan } from "./FormatTimespan";
 import { Today } from "./today";
 
 export const MinutesToTimeString = (minutes) => {
